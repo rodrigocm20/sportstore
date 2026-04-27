@@ -1,0 +1,2 @@
+name sportstore-db
+pass JAiSgac1gXTgkGPZ
